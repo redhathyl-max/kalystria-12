@@ -8,7 +8,7 @@ O Treinamento em Perícia determina o valor de vezes que você rolará um dATB (
 - Treinado - Rola o dATB duas vezes, e usa o melhor.
 - Experiente - Rola o dATB três vezes, e usa o melhor.
 - Mestre - Rola o dATB quatro vezes, e usa o melhor.
-- Se você tem 1 no Atributo, não importa o quão treinado você seja, você não irá rolará dATB na sua rolagem de atributo, logo não irá multiplicar nada usando uma Perícia. Um Personagem completamente desprovido de Talento não pode ser bom em algo que não é a sua praia, não importe o quanto ele treine.
+Se você tem 1 no Atributo, não importa o quão treinado você seja. Um Personagem completamente desprovido de Talento não pode ser bom em algo que não é a sua praia, não importe o quanto ele treine.
 
 
 ### Lista de perícias:

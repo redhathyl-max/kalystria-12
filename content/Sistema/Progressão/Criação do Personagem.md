@@ -11,5 +11,5 @@ Perceba como você não var rolar dATB (veja [[Mecânica central]]) do seu Atrib
 
 A Reserva de Sangue (conhecido em outros sistemas como Pontos de Vida Máximos) inicial é 12, para todos os Personagens Humanos. Uma espada longa, por comparação, causa 12 de dano Cortante contra a Matéria. Pontos de Sangue representam a vida "Atual" do Personagem. Eles podem recuperar Pontos de Sangue para a Reserva de Sangue a cada descanso, equivalente ao Nível do Personagem (veja a Tabela de Sangue em [[Tabelas]]).
 
-- Todo Personagem Humano recebe 1d2+1dATB Vigor/2 (arredondado para baixo) por Nível de Personagem, menos no Nível 1.
+- Todo Personagem Humano recebe 1d2+1dATB Vigor/2 (arredondado para baixo) por Nível de Personagem, menos no Nível 0.
 - Quando o HP chega a 0, o Jogador rola a Tabela de Letalidade (veja a Tabela de Letalidade em [[Tabelas]]) para determinar o resultado, sendo a Morte um dos resultados possíveis.
