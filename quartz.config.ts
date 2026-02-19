@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Cinzel Decorative", // Medieval, ornamentado — perfeito para títulos
+        body: "Crimson Text",        // Serifada clássica, lembra manuscritos antigos
+        code: "Courier Prime",       // Monoespaçada com toque vintage
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f5ead8",          // Fundo: Pergaminho
+          lightgray: "#ddd0b8",      // Bordas: Pergaminho escurecido
+          gray: "#9c8672",           // Texto secundário: Sépia
+          darkgray: "#3d2b1f",       // Texto principal: Tinta marrom
+          dark: "#1a0f07",           // Títulos: Tinta preta-café
+          secondary: "#8b4513",      // Links: Marrom sela
+          tertiary: "#a0522d",       // Hover: Sienna
+          highlight: "rgba(139, 69, 19, 0.12)",
+          textHighlight: "#c8a97088",
         },
         darkMode: {
-          light: "#1c1917",      // Fundo: Café torrado (Stone 900)
-          lightgray: "#44403c",  // Bordas: Marrom terra
-          gray: "#a8a29e",       // Texto secundário: Cinza quente
-          darkgray: "#e7e5e4",   // Texto principal: Papel envelhecido claro
-          dark: "#fafaf9",       // Títulos: Branco quente
-          secondary: "#d97706",  // Links: Âmbar/Dourado antigo
-          tertiary: "#78350f",   // Hover: Café médio
-          highlight: "rgba(217, 119, 6, 0.15)", // Destaque: Brilho âmbar
-          textHighlight: "#451a0388",
+          light: "#110e0b",          // Fundo: Café quase preto, como tinta seca
+          lightgray: "#2e2318",      // Bordas: Couro escuro
+          gray: "#7a6652",           // Texto secundário: Marrom pergaminho
+          darkgray: "#c9b99a",       // Texto principal: Papel amarelado
+          dark: "#e8d8b8",           // Títulos: Pergaminho claro
+          secondary: "#b8732a",      // Links: Âmbar enferrujado
+          tertiary: "#8b5e2a",       // Hover: Bronze oxidado
+          highlight: "rgba(184, 115, 42, 0.12)", // Destaque: Brilho âmbar sutil
+          textHighlight: "#3b1f0a88",
         },
       },
     },
