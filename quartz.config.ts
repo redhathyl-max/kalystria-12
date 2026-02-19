@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1c1917",      // Fundo: Café torrado (Stone 900)
+          lightgray: "#44403c",  // Bordas: Marrom terra
+          gray: "#a8a29e",       // Texto secundário: Cinza quente
+          darkgray: "#e7e5e4",   // Texto principal: Papel envelhecido claro
+          dark: "#fafaf9",       // Títulos: Branco quente
+          secondary: "#d97706",  // Links: Âmbar/Dourado antigo
+          tertiary: "#78350f",   // Hover: Café médio
+          highlight: "rgba(217, 119, 6, 0.15)", // Destaque: Brilho âmbar
+          textHighlight: "#451a0388",
         },
       },
     },
