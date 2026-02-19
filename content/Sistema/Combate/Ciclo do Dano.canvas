@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9bd4303c29b3e802","type":"group","x":-800,"y":-240,"width":1320,"height":560,"label":"Ciclo do Dano - Visual","background":"zBanco de Dados - Imagens/Pasted image 20260219101531.png"},
+		{"id":"7b9e244a778e9d38","type":"text","text":"Dano Cortante","x":-222,"y":-169,"width":250,"height":60,"color":"1"},
+		{"id":"6a5d3cd3f0639beb","type":"text","text":"Material","x":200,"y":-165,"width":250,"height":56,"color":"5"},
+		{"id":"35f4f15c4278f77f","type":"text","text":"Dano Perfurante","x":-120,"y":200,"width":250,"height":50,"color":"1"},
+		{"id":"80e9a1481db79f4b","type":"text","text":"Dano de Impacto","x":-280,"y":0,"width":250,"height":60,"color":"1"},
+		{"id":"36efaee6e3a40b50","type":"text","text":"Blindagem","x":-760,"y":0,"width":250,"height":60,"color":"5"},
+		{"id":"af79f03809195d8d","type":"file","file":"Sistema/Combate/Ciclo do Dano.md","x":560,"y":-240,"width":400,"height":1400},
+		{"id":"c1e03fea272121c7","type":"file","file":"Sistema/Combate/Sistema de Combate.md","x":-800,"y":400,"width":1320,"height":760},
+		{"id":"32760afd6073c33f","x":-800,"y":1280,"width":1760,"height":400,"type":"file","file":"Sistema/Equipamentos/Armaduras.md"}
+	],
+	"edges":[
+		{"id":"3c966ff56dca3dea","fromNode":"7b9e244a778e9d38","fromSide":"right","toNode":"6a5d3cd3f0639beb","toSide":"left","color":"6","label":"Sang."},
+		{"id":"b09b06eb0df9d8ea","fromNode":"6a5d3cd3f0639beb","fromSide":"bottom","toNode":"80e9a1481db79f4b","toSide":"right","color":"2","label":"Desvant"},
+		{"id":"8424c88bb2bf76ff","fromNode":"80e9a1481db79f4b","fromSide":"left","toNode":"36efaee6e3a40b50","toSide":"right","color":"6","label":"Quebra"},
+		{"id":"03203211b68c11a7","fromNode":"36efaee6e3a40b50","fromSide":"top","toNode":"7b9e244a778e9d38","toSide":"left","color":"3","label":"Resiste"},
+		{"id":"a4992ccc595aea63","fromNode":"35f4f15c4278f77f","fromSide":"left","toNode":"36efaee6e3a40b50","toSide":"bottom","color":"6","label":"Atravessa"},
+		{"id":"fc778650386d41fd","fromNode":"35f4f15c4278f77f","fromSide":"right","toNode":"6a5d3cd3f0639beb","toSide":"bottom","color":"6","label":"Normal"},
+		{"id":"0c3e63f01a816228","fromNode":"af79f03809195d8d","fromSide":"bottom","toNode":"32760afd6073c33f","toSide":"top"},
+		{"id":"69adce5f3b517542","fromNode":"c1e03fea272121c7","fromSide":"bottom","toNode":"32760afd6073c33f","toSide":"top"}
+	]
+}

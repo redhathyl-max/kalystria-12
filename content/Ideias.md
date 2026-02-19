@@ -1,0 +1,11 @@
+- Sangrando
+- Concutido
+- Fraturado
+- Exausto
+- Aterrorizado
+- Atordoado
+- Imobilizado
+- Caído
+- Concutido → não pode usar Reação
+- Fratura → perde PA
+- Sangramento Crítico → rola Letalidade mais cedo
