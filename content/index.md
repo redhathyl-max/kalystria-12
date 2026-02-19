@@ -24,3 +24,4 @@ Dito isso...
 
 Eu te amo!
 Mmmmmmmmmmwah!
+Eu. Ti. Amo. Hmmmmmmmmmmph!
