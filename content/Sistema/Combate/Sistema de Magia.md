@@ -134,3 +134,7 @@ Em caso de Potência contra um alvo, faz: 1d12 + dATB do atributo relevante, sen
 - Número de Parâmetros para Círculo 5: 12
 - Dano Base para Efeitos que causem Dano: 5dATB ARC
 - Potência Máxima: 7
+
+
+O Custo em Ânima para os feitiços é:
+- Custo=(Círculo * 2) + Total de Parâmetros Distribuídos
