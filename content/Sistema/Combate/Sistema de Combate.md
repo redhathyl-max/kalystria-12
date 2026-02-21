@@ -2,7 +2,7 @@
 ### Fluxo do Combate:
 
 
-O combate é dividido em Rodadas e Turnos. Em cada Rodada, todos os participantes agem de acordo com a Iniciativa (veja [[Sistema de Combate]]). Além disso, cada Personagem possui 2 Pontos de Ações (PA) em seu turno. Você pode usar duas Ações diferentes ou repetir a mesma Ação.
+O combate é dividido em Rodadas e Turnos. Um Turno equivale a 5 segundos. Em cada Rodada, todos os participantes agem de acordo com a Iniciativa (veja [[Sistema de Combate]]). Além disso, cada Personagem possui 2 Pontos de Ações (PA) em seu turno. Você pode usar duas Ações diferentes ou repetir a mesma Ação.
 
 #### Ações de Combate:
 - ``Atacar ``: Realiza uma Rolagem de Acerto com uma Perícia de Combate. Deve-se bater a Defesa Passiva (DP) do Alvo, que equivale a 7 + Agilidade - Peso (veja [[Armaduras]]). Atacar duas vezes resulta numa penalidade de dATB / 2 (arredonda para baixo).
